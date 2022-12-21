@@ -39,7 +39,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: var(--mainBlack);
-  background: rgba(138, 103, 133, 0.938);
+  background: rgba(219, 236, 234, 0.94);
   line-height: 1.4;
   font-size: 1rem;
   font-weight: 300;
@@ -317,6 +317,8 @@ Cocktail
   max-width: var(--fullWidth);
   margin: 0 auto;
   text-align: left;
+  border: #ffcb00c2 1px solid;
+padding: 1rem;
 }
 .drink img {
   border-radius: var(--mainBorderRadius);

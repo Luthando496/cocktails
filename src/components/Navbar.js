@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className='navbar'>
       <div className="nav-center">
         <Link>
-          <img src={logo} className="logo" alt="logo" />
+          <h1>Luthando Beverages</h1>
         </Link>
 
         <ul className="nav-links">
